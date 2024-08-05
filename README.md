@@ -1,7 +1,8 @@
 # Chat with multiple websites, PDFs & other documents!
 
 In this studio, we are developing a RAG application that allows users to query multiple websites and documents, including PDFs, ePubs, and more. This will save you time by eliminating the need to slog through dozens of pages to find what you need.  
-Click on the image below to watch the demo of the App.
+  
+**Click on the image below to watch the demo of the App.**
 
 [![final-cover](https://github.com/user-attachments/assets/c2f88b7d-8358-49f3-92bc-1b59f5a92c21)](https://www.youtube.com/watch?v=QJOEaUOfdSE)
 
